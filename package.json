@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://alphadl0.github.io/azure-technical-onboarding",
+  "homepage": "https://alphadl0.github.io/azure-technical-onboarding",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
