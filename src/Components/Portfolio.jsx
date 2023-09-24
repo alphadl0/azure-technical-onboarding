@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/digitalart.jpg";
+import image from "../images/cyber1.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = ".";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Conducting a security audit",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Performed an internal audit to complete a controls assessment and compliance checklist.",
+    url: ".",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Analyzing network structure and security",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Wrote a security risk assessment to analyze the incident and explained what methods can be used to further secure the network.",
+    url: ".",
   },
   {
-    title: "My Resume Site",
+    title: "Using Linux commands to manage file permissions",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I changed multiple permissions to match the level of authorization for files and directories",
+    url: ".",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Identifying vulnerabilities for a small business",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I communicated the potential risks with decision makers at the company. I created a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.",
+    url: ".",
   },
 ];
 

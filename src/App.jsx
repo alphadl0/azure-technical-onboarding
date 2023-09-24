@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mamadou Alpha Diallo",
-  title: "Cyber Security Analyst",
-  email: "mamadoualpha-diallo@outlook.com",
+  title: "Cybersecurity Analyst",
+  email: "mamadoualpha.diallo@ogr.deu.edu.tr",
   gitHub: "alphadl0",
   instagram: "alpha_dl0",
   linkedIn: "alpha-dl0",

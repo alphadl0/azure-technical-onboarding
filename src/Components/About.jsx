@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/safety.jpg";
+import image from "../images/digitalart.jpg";
 
 const imageAltText = ".";
 
@@ -31,12 +31,13 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Cloud security",
+  "Incident Response",
+  "Vulnerability Assessment",
+  "Security Policies and Compliance",
+  "Security Information and Event Management (SIEM)",
+  "Identity and Access Management (IAM)",
+  "Penetration Testing and Ethical Hacking",
 ];
 
 /**
