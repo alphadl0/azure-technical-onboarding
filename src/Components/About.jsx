@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  " I am developing my expertise in cybersecurity through rigorous coursework, hands-on projects, and a commitment to staying up-to-date with the latest industry trends and best practices. My journey in cybersecurity has equipped me with a diverse set of skills, ranging from network security and ethical hacking to data privacy and risk management. In this portfolio, you will discover a collection of my most significant cybersecurity projects and accomplishments.";
+  " As a passionate and dedicated student in Information Systems, I am sharpening my expertise in cybersecurity through rigorous coursework, hands-on projects, and a commitment to staying up-to-date with the latest industry trends and best practices. I have a strong foundation in the technical and theoretical aspects of cybersecurity, and I am eager to learn more and gain real-world experience. My commitment to the world of cybersecurity extends beyond the classroom. I am eager to leverage my skills and knowledge to contribute to the ever-evolving landscape of digital security.";
 
 const About = () => {
   return (
